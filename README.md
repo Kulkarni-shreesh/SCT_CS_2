@@ -10,7 +10,7 @@ This project is designed for learning purposes and helps in understanding how cr
 
 ## Project Structure
 
-
+```bash
 📦 IMAGEENCRYPTIIONPROJ
  ┣ 📜 image_encryption.py     # Main Python script (encryption & decryption)
  ┣ 📜 README.md               # Project documentation
@@ -20,6 +20,7 @@ This project is designed for learning purposes and helps in understanding how cr
  ┣ 📜 pixel_swapped.png       # Encrypted image (Pixel Swap method)
  ┣ 📜 decrypted.png           # Decrypted image from XOR
  ┗ 📜 decrypted_swap.png      # Decrypted image from Pixel Swap
+```
 
 ---
 
